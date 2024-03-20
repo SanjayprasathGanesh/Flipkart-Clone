@@ -1,16 +1,1 @@
-# flipkart
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The Flipkart clone app replicates the core functionalities of the original Flipkart platform, offering users a seamless shopping experience. Built on Flask backend technology, the app connects to a REST API to enable various features such as browsing and purchasing products, managing a shopping cart, viewing detailed product information, and tracking orders. Users can conveniently add items to their cart, apply discounts, and proceed with secure checkout processes. Additionally, the app provides features to view past orders, manage favorites, and track shipment statuses, ensuring users have full control over their shopping journey. With a user-friendly interface resembling the renowned Flipkart platform, the clone app delivers an immersive and efficient shopping experience for users.
